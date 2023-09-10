@@ -16,7 +16,7 @@ I conjure up stunning web interfaces with my mastery over these magical incantat
 
 ## 🧙‍♂️ Spellbinding Skills
 
-- 🪄 Crafting pixel-perfect designs
+- 💡 Crafting pixel-perfect designs
 - 🎨 Enchanting user interfaces
 - 🌐 Breathing life into websites
 - 📱 Ensuring responsiveness
@@ -24,7 +24,7 @@ I conjure up stunning web interfaces with my mastery over these magical incantat
 - ⚙️ Maintaining modular codebases
 - 🧹 Keeping code clean and tidy
 
-## 🪄 Magic Tools
+## 🔧 Magic Tools
 
 My trusty tools include Git wands for version control and a keyboard that functions as both a wand and a shield against the bugs that dwell in the shadows.
 
@@ -34,7 +34,7 @@ In the world of development, time is of the essence. I wield my spells with prec
 
 ## 🌟 Beyond the Code
 
-I'm a seeker of knowledge when not weaving spells in the digital realm. I stay updated with the latest trends and seek opportunities to expand my magical skill set.
+I seek knowledge when not weaving spells in the digital realm. I stay updated with the latest trends and seek opportunities to expand my magical skill set.
 
 ## 🌎 Let's Connect!
 
@@ -46,4 +46,4 @@ If you're on a quest to create marvellous digital experiences or want to chat ab
 
 - 📫 Reach me through my [LinkedIn](https://www.linkedin.com/in/ibraheem-uthman/) or [Twitter](https://twitter.com/ibraheemuthman_).
 
-May your code always compile and your designs dazzle! 🪄✨
+May your code always compile and your designs dazzle! 🌟🌟
