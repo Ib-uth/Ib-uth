@@ -10,7 +10,7 @@ I'm Ibraheem Uthman, a highly skilled Front-End Developer passionate about craft
 
 ## 💻 Tech Wizardry
 
-🔮 HTML | CSS | JavaScript | React | WordPress
+🔮 HTML | CSS | JavaScript | React | WordPress | Vue | Node | Express
 
 I conjure up stunning web interfaces with my mastery over these magical incantations. From the humble HTML scrolls to the mesmerizing animations of React spells, I'm your go-to sorcerer for all things front-end!
 
