@@ -1,6 +1,6 @@
 <!-- Hey there, I'm Ibraheem Uthman, a Front-End Developer! 👋 -->
 
-# 👋 Hi, I'm Ibraheem Uthman - Front-End Enthusiast! ✨
+# 👋 Hey, I'm Ibraheem Uthman - Front-End Development Is My Turf
 
 Welcome to my little corner of the web! 🚀
 
@@ -21,17 +21,6 @@ I'm Ibraheem Uthman, and I'm super into Front-End Development. I've been at it f
 - 🧩 I build with React.
 - ⚙️ I keep my code neat and tidy.
 
-## 🔧 Tools of the Trade
-
-I use Git for keeping track of my work, and my keyboard is like a magic wand and a shield rolled into one. It helps me tackle bugs and make things happen.
-
-## ⚡ Fast and Reliable
-
-In the world of web development, time matters. I get things done on time without compromising quality. It's all about getting the best of both worlds!
-
-## 🌟 Beyond Coding
-
-When I'm not coding, I'm learning. I keep up with the latest trends and love to expand my skills.
 
 ## 🌎 Let's Connect!
 
@@ -43,4 +32,4 @@ If you're into creating awesome web experiences or just want to chat about front
 
 - 📫 You can also reach me on [LinkedIn](https://www.linkedin.com/in/ibraheem-uthman/) or [Twitter](https://twitter.com/ibraheemuthman_).
 
-May your code always work, and your designs always shine! 🌟🌟
+May your code always work! 
