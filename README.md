@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I am Ibraheem Uthman, a dedicated Full Stack Engin
 
 ---
 
-## 🛠 Core Competencies
+## Core Competencies
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, SASS
 - **Backend:** Node.js, Express.js, RESTful APIs, Python (Django, Flask), PHP (Laravel), WordPress Development
@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am Ibraheem Uthman, a dedicated Full Stack Engin
 
 ---
 
-## 📌 What I Deliver
+## What I Deliver
 
 - End-to-end application development with a focus on robust frontend architecture
 - Intuitive, pixel-perfect interfaces that align with modern UX/UI best practices
@@ -26,7 +26,7 @@ Welcome to my GitHub profile. I am Ibraheem Uthman, a dedicated Full Stack Engin
 
 ---
 
-## 🌍 Let’s Connect
+## Let’s Connect
 
 For collaborations, project inquiries, or professional discussions:
 
