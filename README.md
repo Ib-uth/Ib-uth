@@ -1,33 +1,40 @@
-<!-- Hey there, I'm Ibraheem Uthman, a Front-End Developer!  -->
+# Ibraheem Uthman
 
-# Welcome To My Lil-Space
+**Full Stack Engineer | Frontend Specialist**  
 
-Welcome to my little corner of the web. 
+Welcome to my GitHub profile. I am Ibraheem Uthman, a dedicated Full Stack Engineer with a strong emphasis on frontend development. With over seven years of experience, I build efficient, scalable, and impactful digital solutions that prioritize clean architecture, robust functionality, and outstanding user experience.
 
-I'm Ibraheem Uthman, and I'm super into Front-End Development. I've been at it for over six years, and I'm all about creating cool stuff on the web. I take lines of code and turn them into awesome user interfaces.
+---
 
-##Skills
+## 🛠 Core Competencies
 
-I work with HTML, CSS, JavaScript, React, WordPress, Vue, Node, and Express. These are my tools of the trade for making web magic happen. From the basics of HTML to the cool animations in React, I'm your go-to person for all things front-end!
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, SASS
+- **Backend:** Node.js, Express.js, RESTful APIs, Python (Django, Flask), PHP (Laravel), WordPress Development
+- **DevOps & Tools:** Git, GitHub, Docker, CI/CD pipelines, Linux server management
+- **Data & Security:** MySQL, PostgreSQL, MongoDB, basic machine learning integration, cybersecurity practices
+- **Other:** Web performance optimization, responsive design, cross-browser compatibility, accessibility standards
 
-## What I Do
+---
 
-- I make designs look pixel-perfect.
-- I create eye-catching user interfaces.
-- I bring websites to life.
-- I ensure websites work on all devices.
-- I build with React.
-- I keep my code neat and tidy.
+## 📌 What I Deliver
 
+- End-to-end application development with a focus on robust frontend architecture
+- Intuitive, pixel-perfect interfaces that align with modern UX/UI best practices
+- Scalable backend services integrated seamlessly with dynamic frontend frameworks
+- Code that adheres to clean coding standards, maintainability, and modularity
+- Performance-optimized solutions for high-traffic, enterprise-level applications
 
-## Let's Connect!
+---
 
-If you're into creating awesome web experiences or just want to chat about front-end development, hit me up! Let's go on this web adventure together.
+## 🌍 Let’s Connect
 
-- Have ideas? I have solutions! Email me at [uthibraheem@gmail.com](mailto:uthibraheem@gmail.com) for a chat.
+For collaborations, project inquiries, or professional discussions:
 
-- Check out my web adventures on [My Portfolio](https://blackfreelancer.com/Ibraheem).
+- 📧 Email: [uthibraheem@gmail.com](mailto:uthibraheem@gmail.com)
+- 🌐 Portfolio: [byterift.net.ng](https://byterift.net.ng/)
+- 💼 LinkedIn: [linkedin.com/in/ibraheem-uthman](https://www.linkedin.com/in/ibraheem-uthman/)
+- 🐦 Twitter: [twitter.com/ibraheemuthman_](https://twitter.com/ibraheemuthman_)
 
-- You can also reach me on [LinkedIn](https://www.linkedin.com/in/ibraheem-uthman/) or [Twitter](https://twitter.com/ibraheemuthman_).
+---
 
-May your code always work! 
+> *Delivering reliable, scalable, and impactful digital solutions with precision and care.*
