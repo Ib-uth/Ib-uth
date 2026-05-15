@@ -12,8 +12,7 @@
 
 <!-- ONE-LINE BIO -->
 <p>
-I build secure, fast, production-ready web applications — from the database to the interface.<br/>
-Eight years in. I care about things that actually work.
+I build secure, fast, production-ready web applications.
 </p>
 
 <!-- SOCIAL BADGES -->
