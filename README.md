@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION — change the lines array to your own words -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1a1a2e&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ibraheem+Uthman+%F0%9F%91%8B;Senior+Full-Stack+Engineer;8+Years+Building+Real+Things;Based+in+Abuja%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1a1a2e&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ibraheem+Uthman;Senior+Full-Stack+Engineer;8+Years+Building+Real+Things;Based+in+Abuja%2C+Nigeria+%F0%9F%87%B3%F0%9F%87%AC)](https://git.io/typing-svg)
 
 <!-- ONE-LINE BIO -->
 <p>
