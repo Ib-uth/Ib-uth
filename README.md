@@ -105,18 +105,6 @@ I'm currently building **SecureFlow** (an API threat intelligence platform) and 
 
 ---
 
-## Currently
-
-```text
-Building      SecureFlow (API threat intelligence dashboard)
-Building      NaijaFinance (personal finance for Nigerian users)
-Learning      PostGIS, LangChain, RAG pipelines, pgvector
-Reading       Designing Data-Intensive Applications — Martin Kleppmann
-Open to       Senior full-stack roles, remote contracts, collaboration
-```
-
----
-
 ## Let's Talk
 
 If you are building something real and need someone who can own the full stack — from architecture decisions to deployment — reach out.
