@@ -116,9 +116,3 @@ If you are building something real and need someone who can own the full stack â
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uthibraheem@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-<sub>Built with care. Updated regularly. Based in Nigeria, available everywhere.</sub>
-</div>
